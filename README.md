@@ -1,7 +1,9 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
+#### Activity 1
+1. The camera no longer follows the cat it stays in place because it is no longer a child of the Cat GameObject, so it does not automatically follows the cat. 
+2. https://wendywu050216.itch.io/in-class-acitivity-1
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
