@@ -12,6 +12,20 @@ The r, b, and g varaibles are float instead of other variable types because they
 _bounce variable is int instead of ther variable type because number of bounces are only whole numbers you can't get half a jump. Therefore int is used instead of the other variable types (explanation for bool and string reasons in **question 1** works here as well).
 #### Question 3
 The error in Step 4 of Part 2 was a complier error which tells you that the line is not closed properly. In this case, a missing semicolon was causing this issue. 
+
+### W3
+#### Activity 1:
+<b>Table 8<b>
+1. the input would be int and boolean, int representing the current friendship level, and boolean representing the flag that teels you whether or not the player knows the character's secret. The output would be a string.
+2. The input would be a float. The return type is void. 
+3. The input would be a float and the output would be a boolean. 
+
+#### Activity 2:
+<b>Table 8<b>
+Class are like a cat's DNA and the memeber variables can be their personality/traits. Some can be friendly, some can have green eyes and more. The Component is the cat itself, by editing the class you will be able to modify the cat's behavior and DNA.
+
+#### Part 3:
+Because everytime we are multiplying the color by 1.5 if the average speed is above the threshold. Therefore as balls bounce faster and faster, the multiplication makes the number of color value grow causing it to become extremely brighter. 
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
