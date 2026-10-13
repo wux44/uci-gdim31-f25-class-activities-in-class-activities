@@ -21,7 +21,7 @@ Table 8
 3. The input would be a float and the output would be a boolean. 
 
 #### Activity 2:
-Table 8/n
+Table 8 <br>
 Class are like a cat's DNA and the memeber variables can be their personality/traits. Some can be friendly, some can have green eyes and more. The Component is the cat itself, by editing the class you will be able to modify the cat's behavior and DNA.
 
 #### Part 3:
