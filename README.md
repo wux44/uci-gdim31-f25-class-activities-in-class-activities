@@ -15,13 +15,13 @@ The error in Step 4 of Part 2 was a complier error which tells you that the line
 
 ### W3
 #### Activity 1:
-<b>Table 8<b>
+Table 8
 1. the input would be int and boolean, int representing the current friendship level, and boolean representing the flag that teels you whether or not the player knows the character's secret. The output would be a string.
 2. The input would be a float. The return type is void. 
 3. The input would be a float and the output would be a boolean. 
 
 #### Activity 2:
-<b>Table 8<b>
+Table 8
 Class are like a cat's DNA and the memeber variables can be their personality/traits. Some can be friendly, some can have green eyes and more. The Component is the cat itself, by editing the class you will be able to modify the cat's behavior and DNA.
 
 #### Part 3:
