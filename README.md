@@ -26,7 +26,13 @@ Class are like a cat's DNA and the memeber variables can be their personality/tr
 
 #### Part 3:
 Because everytime we are multiplying the color by 1.5 if the average speed is above the threshold. Therefore as balls bounce faster and faster, the multiplication makes the number of color value grow causing it to become extremely brighter. 
+
+### W4
+#### Question 1:
+Team number3: For our team we came up with that the rigidbody should go to soccer and the cat because these are the only two objects in the game that needs to move which involves physic. The goal on the other hand does not require that. For the Is Trigger check, we chose the goal because as goal would not be moving collision would only happens when a ball collides into it.  
+#### Question 2:
+I think the only thing that did not work for me the first time would be forgotting to freeze the rotation of the cat causing it to fall while walking. I fixed it by freezing the rotation. 
+ 
 ## Open-Source Assets
-### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
 - Low-poly environment: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153 
