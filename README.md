@@ -33,7 +33,7 @@ Team number3: For our team we came up with that the rigidbody should go to socce
 #### Question 2:
 I think the only thing that did not work for me the first time would be forgotting to freeze the rotation of the cat causing it to fall while walking. I fixed it by freezing the rotation. 
 
-### W5
+### W6
 #### Question 1:
 The class needs a Transform variable to store the target GameObject that the deer will walk toward and a NavMeshAgent variable to control the deer's movement.
 
