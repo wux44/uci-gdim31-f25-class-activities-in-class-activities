@@ -43,6 +43,21 @@ The class needs the Unity-provided Start() method, which runs once when the game
 #### Question 3:
 The Start() method should use GetComponent<NavMeshAgent>() to get the NavMeshAgent attached to the deer. Then, it should use SetDestination() with the target's position to tell the deer where to walk. Unity's NavMesh system will handle the movement automatically.
 
+### W7
+
+### Develog:
+Google Doc Link: https://docs.google.com/document/d/1aeLK5I-99IDjuatIuVXIrAsnugJpk2Gnpb_A2gVelQQ/edit?usp=sharing 
+
+Category: Unity Coding 
+
+1. What variables do I need? 
+A Transform for the Cat, a float for speed that I can change in the Inspector, and a bool to track whether the bat is chasing.
+2. What methods do I need? 
+I’ll use Unity’s Start() and Update(). I’ll also write two public methods, StartChasing() and StopChasing(), so BatManager can call them.
+3. What will the methods do? 
+StartChasing() turns chasing on, and StopChasing() turns it off. Update() moves the bat toward the Cat while chasing is on. For the first test, Start() will call StartChasing() so all bats chase right away.
+I’ll attach BatW6 to every Bat GameObject.
+
 ## Open-Source Assets
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
 - Low-poly environment: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153 
