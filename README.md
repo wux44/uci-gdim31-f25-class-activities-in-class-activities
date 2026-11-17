@@ -59,7 +59,7 @@ StartChasing() turns chasing on, and StopChasing() turns it off. Update() moves 
 I’ll attach BatW6 to every Bat GameObject.
 
 ### W8
-The original code uses `Vector3.forward`, which always moves the Muskrat along the world Z-axis, even when it turns. For example, if the Muskrat turns right, pressing W would still move it in the original direction instead of moving right. I changed it to `transform.forward` so the Muskrat moves in the direction it is currently facing.
+The original code uses Vector3.forward, which always moves the Muskrat along the world Z-axis, even when it turns. For example, if the Muskrat turns right, pressing W would still move it in the original direction instead of moving right. I changed it to transform.forward so the Muskrat moves in the direction it is currently facing.
 
 ## Open-Source Assets
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
