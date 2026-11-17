@@ -6084,7 +6084,10 @@ MonoBehaviour:
   - {fileID: 2130503367}
   - {fileID: 1583297592}
   - {fileID: 1639799784}
-  _messages: []
+  _messages:
+  - hiiii
+  - ohno
+  - gg
   _newTextTimers: []
 --- !u!4 &925081787
 Transform:
