@@ -58,7 +58,7 @@ I’ll use Unity’s Start() and Update(). I’ll also write two public methods,
 StartChasing() turns chasing on, and StopChasing() turns it off. Update() moves the bat toward the Cat while chasing is on. For the first test, Start() will call StartChasing() so all bats chase right away.
 I’ll attach BatW6 to every Bat GameObject.
 
-### W7
+### W8
 The original code uses `Vector3.forward`, which always moves the Muskrat along the world Z-axis, even when it turns. For example, if the Muskrat turns right, pressing W would still move it in the original direction instead of moving right. I changed it to `transform.forward` so the Muskrat moves in the direction it is currently facing.
 
 ## Open-Source Assets
